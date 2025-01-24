@@ -2,6 +2,20 @@
 نام پروژه :  Geneve | anycast | 6TO4 | GRE | GRE6 | IP6IP6 | SIT | Erspan + IPsec- چندین سرور ایران و خارج
 ---------------------------------------------------------------
 ----------------------------------
+نصب پیش نیاز ها
+```
+apt install python3 -y && sudo apt 
+
+pip3 install colorama
+
+sudo apt-get install python-pip -y
+```
+
+
+نصب اسکریپت 
+```
+python3 <(curl -Ls https://raw.githubusercontent.com/kalilovers/6TO4-all/main/ipipv2.py --ipv4)
+```
 
 **این پروژه صرفا برای آموزش و بالا بردن دانش بوده است و هدف دیگری در ان نمیباشد**
 
