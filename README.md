@@ -14,7 +14,7 @@ sudo apt-get install python-pip -y
 
 نصب اسکریپت 
 ```
-python3 <(curl -Ls https://raw.githubusercontent.com/kalilovers/6TO4-all/main/ipipv2.py --ipv4)
+python3 <(curl -Ls https://raw.githubusercontent.com/amir12120/6TO4-all/main/ipipv2.py --ipv4)
 ```
 
 **این پروژه صرفا برای آموزش و بالا بردن دانش بوده است و هدف دیگری در ان نمیباشد**
